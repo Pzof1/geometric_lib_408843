@@ -34,4 +34,4 @@
 
 ## Commits:
 - <6b5d890> add triangle.py, edit rectangle.py
-- <d238f6b> add rectangle.py
+- <\d238f6b> add rectangle.py

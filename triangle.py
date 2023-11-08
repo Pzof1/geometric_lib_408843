@@ -10,7 +10,7 @@ def area(a, h):
 
 def perimeter(a, b, c):
     """ 
-    perimeter(a)
+    perimeter(a,b,c)
     
     Принимает значения a,b,c и возвращает значение периметра
 
