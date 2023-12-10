@@ -32,7 +32,18 @@
 
 - def perimeter(a,b,c): - Принимает значения a,b,c и возвращает значение периметра. Пример: perimeter(1,2,3) = 6
 
+## Lib has tests:
+
+### AreaTests:
+- Normal args
+- Zero args
+### PerimeterTests:
+- Normal args
+- Zero args
+
+
+
 ## Commits:
-- <1ad3b074> add test.py
+- <4b06ed9> add test.py
 - <6b5d890> add triangle.py, edit rectangle.py
-- <\d238f6b> add rectangle.py
+- <0d238f6> add rectangle.py
